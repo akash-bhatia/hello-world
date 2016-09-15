@@ -1,2 +1,6 @@
 # hello-world
-testing git
+
+Hi
+
+learning git shit
+
